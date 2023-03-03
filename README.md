@@ -8,6 +8,8 @@ Parkinson's disease is a neurodegenerative disorder that affects movement, causi
 # Methods
 In this project, we used the oneDAL clustering method with a Lasso model to detect Parkinson's disease. The dataset used in this study consisted of clinical data from 195 patients, including 48 with Parkinson's disease and 147 without. The data was preprocessed, and features were selected using the Lasso regression method. The selected features were then used to cluster the data using the oneDAL clustering method. We evaluated the performance of the model using the accuracy metric.
 
+![download](https://user-images.githubusercontent.com/111365771/222626165-1d331370-f9d2-4480-b142-c0e374002b8b.png)
+
 # oneAPI
 oneAPI is an open, cross-architecture programming model that enables developers to write applications that can run on a variety of hardware platforms, including CPUs, GPUs, and FPGAs. The goal of oneAPI is to provide a common interface that can be used across different hardware architectures, reducing the complexity of developing software for heterogeneous systems. With oneAPI, developers can write code in standard programming languages such as C++, DPC++, and Fortran, and then use oneAPI libraries to take advantage of hardware-specific optimizations.
 
