@@ -1,4 +1,6 @@
 # Parkinson Syndrome Detection
+![images-_7__1](https://user-images.githubusercontent.com/111365771/222625936-03a7c36b-f2fc-4595-bd99-42a0206cc12c.jpg)
+
 
 # Introduction
 Parkinson's disease is a neurodegenerative disorder that affects movement, causing tremors, rigidity, and difficulty with walking and coordination. Early detection of Parkinson's disease is crucial for effective treatment and management. Machine learning techniques have shown promise in accurately detecting Parkinson's disease from various medical data, including imaging, genetic, and clinical data.
