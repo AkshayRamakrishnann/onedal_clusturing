@@ -1,4 +1,4 @@
-# onedal_clusturing
+# Parkinson Syndrome Detection
 
 # Introduction
 Parkinson's disease is a neurodegenerative disorder that affects movement, causing tremors, rigidity, and difficulty with walking and coordination. Early detection of Parkinson's disease is crucial for effective treatment and management. Machine learning techniques have shown promise in accurately detecting Parkinson's disease from various medical data, including imaging, genetic, and clinical data.
